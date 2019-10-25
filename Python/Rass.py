@@ -1,4 +1,9 @@
-# importing libreries
+#This file contains Robot Rass's class
+#The class is to give Rass all the commands that affect it
+#Currently it has movment implemted given the correct wiring
+#Possible improvements would be an overloaded construter incase of any changes in the wiring 
+
+# importing libraries
 import RPi.GPIO as GPIO
 import time
 
