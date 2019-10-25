@@ -1,7 +1,9 @@
 from Rass import *
 
+#making robot Rass object
 rass = Rass()
 
+#A loop that goes forever to take commands from kyboard and move the robot
 while True:
         print("enter command")
         key = input()
